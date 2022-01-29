@@ -1,0 +1,5 @@
+C:\Users\renan.freire\OneDrive - SPASSU TECNOLOGIA E SERVIÇOS LTDA\Área de Trabalho\Robot in Mars\Robot-in-Mars.exe
+C:\Users\renan.freire\OneDrive - SPASSU TECNOLOGIA E SERVIÇOS LTDA\Área de Trabalho\Robot in Mars\Robot-in-Mars.dll
+C:\Users\renan.freire\OneDrive - SPASSU TECNOLOGIA E SERVIÇOS LTDA\Área de Trabalho\Robot in Mars\Robot-in-Mars.deps.json
+C:\Users\renan.freire\OneDrive - SPASSU TECNOLOGIA E SERVIÇOS LTDA\Área de Trabalho\Robot in Mars\Robot-in-Mars.runtimeconfig.json
+C:\Users\renan.freire\OneDrive - SPASSU TECNOLOGIA E SERVIÇOS LTDA\Área de Trabalho\Robot in Mars\Robot-in-Mars.pdb
